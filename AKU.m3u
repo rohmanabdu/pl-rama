@@ -30,7 +30,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1705215623_b384
 #EXTINF:-1 tvg-name="BTV" tvg-logo="https://www.lyngsat.com/logo/tv/bb/btv-id.svg" group-title="NASIONAL",BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-name="TRANS 7 2" group-title="NASIONAL",TRANS 7 2
+#EXTINF:-1 tvg-name="MAGNA TV" tvg-logo="https://logos.fandom.com/wiki/Magna_Channel?file=MagnaChannel.png" group-title="NASIONAL",MAGNA TV
 https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1787386672289&wowzatokenhash=DLJUPvW1n3fA7T8gpXXsCRTAfQUBtKlpt-_Ht1IDYU4%3D
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
 #EXTINF:-1 tvg-name="TVRI" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="NASIONAL",TVRI
