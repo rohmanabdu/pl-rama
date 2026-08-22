@@ -1,0 +1,16 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rajawali_tv_id.png" group-title="NASIONAL",RTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="MDTV" tvg-logo="hhttps://www.lyngsat.com/logo/tv/mm/md-tv-id.svg" group-title="NASIONAL",MDTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/01.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://www.lyngsat.com/logo/tv/mm/metro_tv_id.png" group-title="NASIONAL",METRO TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="RODJA TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rodja-tv-id.png" group-title="NASIONAL",RODJA TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h233/01.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="NUSANTARA TV" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nusantara_tv_id.png" group-title="NASIONAL",NUSANTARA TV
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/01.m3u8
