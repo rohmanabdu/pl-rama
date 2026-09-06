@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-name="trans 7" group-title="nasinal",trans 7
+https://live.eu-north-1a.cf.dmcdn.net/sec2(AFSQ5TCE4wtk1a3aqpyXkbf8W--6-12KB2xsz1MJrr6bFUkmo1HkmnDDEjaXEn0wJfdjQKyCqJ8T4yLv1qZ2N_U113cCDr9VsKNLrSTB198y4HswASeMk9ArMFH5HKA9)/dm/3/x8qckyq/d/live-480.m3u8
