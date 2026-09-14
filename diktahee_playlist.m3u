@@ -1,0 +1,629 @@
+#EXTM3U name="diktahee Playlist"
+
+#EXTINF:-1 tvg-name="!GRATIS!⚠️" group-title="INDONESIA",!GRATIS!⚠️
+https://raw.githubusercontent.com/aderandi/diktaads/main/PERHATIAN.mp4
+
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/RCTI.png" group-title="INDONESIA",RCTI
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MNC%20TV.png" group-title="INDONESIA",MNC TV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/GTV.png" group-title="INDONESIA",GTV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+
+#EXTINF:-1 tvg-name="INEWS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INEWS.png" group-title="INDONESIA",INEWS
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
+
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TRANS%207.png" group-title="INDONESIA",TRANS 7
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://geo.dailymotion.com/player/x15a7g.html?video=x8qckyq
+https://live.eu-north-1a.cf.dmcdn.net/sec2(Nz0nMAnSeCAhg_APYHScXXnX7OtkQwLRoeYB8nWiMNV7bf0bEtAg1hC52Unnu-ztreSds6WNGliMdF2L1FpMMbe5Py5sHoZO10Lz3aO0f0U6sHq0pDTnzjsY6z7ADaUp)/dm/3/x8qckyq/d/live-480.m3u8#cell=lcf-eu-north-1a
+
+#EXTINF:-1 tvg-name="TRANS TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TRANS%20TV.png" group-title="INDONESIA",TRANS TV
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
+https://dickgital.semar26.xyz/fetch?id=transtv.m3u8&auth=transsemar25
+
+#EXTINF:-1 tvg-name="CNN INDONESIA" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/CNN%20Indonesia.png" group-title="INDONESIA",CNN INDONESIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+https://www.youtube.com/watch?v=PDDOkUq33Sw
+
+#EXTINF:-1 tvg-name="INDOSIAR" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDOSIAR.png" group-title="INDONESIA",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vidsemar.pages.dev/terraluna2/205.mpd
+
+#EXTINF:-1 tvg-name="INDOSIAR DIGITAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDOSIAR.png" group-title="INDONESIA",INDOSIAR DIGITAL
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
+https://dickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SCTV.png" group-title="INDONESIA",SCTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/204.mpd
+
+#EXTINF:-1 tvg-name="SCTV DIGITAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SCTV.png" group-title="INDONESIA",SCTV DIGITAL
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
+https://dickgital.semar26.xyz/fetch?id=sdigital.m3u8&auth=sdgtlsemar25
+
+#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MOJI%20TV.png" group-title="INDONESIA",MOJI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-name="TVONE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TVONE.png" group-title="INDONESIA",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
+
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/ANTV.png" group-title="INDONESIA",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://vidsemar.pages.dev/terraluna2/782.mpd
+
+#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MDTV.png" group-title="INDONESIA",MDTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8
+
+#EXTINF:-1 tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/KOMPAS%20TV.png" group-title="INDONESIA",KOMPAS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://op-flashcon-digdayahd-1.dens.tv/s/s104/index.m3u8
+
+#EXTINF:-1 tvg-name="METRO TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/METRO%20TV.png" group-title="INDONESIA",METRO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/RTV.png" group-title="INDONESIA",RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://op-flashcon-digdayahd-1.dens.tv/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-name="TVRI NASIONAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TVRI%20Nasional.png" group-title="INDONESIA",TVRI NASIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0, AppleWebKit/537.36 (KHTML, like Gecko), Chrome/[Version], and Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
+
+#EXTINF:-1 tvg-name="GARUDA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/GARUDA%20TV.png" group-title="INDONESIA",GARUDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+
+#EXTINF:-1 tvg-name="NUSANTARA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/NUSANTARA%20TV.png" group-title="INDONESIA",NUSANTARA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
+
+#EXTINF:-1 tvg-name="INDONESIANA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDONESIANA%20TV.png" group-title="INDONESIA",INDONESIANA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/BTV.png" group-title="INDONESIA",BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
+
+#EXTINF:-1 tvg-name="BERITA SATU" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Berita%20Satu.png" group-title="INDONESIA",BERITA SATU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+http://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
+
+#EXTINF:-1 tvg-name="IDX CHANNEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/IDX.png" group-title="INDONESIA",IDX CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd
+
+#EXTINF:-1 tvg-name="BN CHANNEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/BN%20Channel.png" group-title="INDONESIA",BN CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://flv.intechmedia.net/live/ch112.m3u8
+
+#EXTINF:-1 tvg-name="MUSIC TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Music%20TV.png" group-title="INDONESIA",MUSIC TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+#EXTINF:-1 tvg-name="SIN PO TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sin%20Po%20TV.png" group-title="INDONESIA",SIN PO TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+https://vidsemar.pages.dev/terraluna2/19046.mpd
+
+#EXTINF:-1 tvg-name="MUSLIM TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Muslim%20TV.png" group-title="INDONESIA",MUSLIM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/a8f14e34c687494fb1454b88742db085/index.mpd
+
+#EXTINF:-1 tvg-name="AJWA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Ajwa%20TV.png" group-title="INDONESIA",AJWA TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=http://www.vidio.com/
+http://tvratu.my.id/nissa/index.mpd?id=7464&type=dash
+
+#EXTINF:-1 tvg-name="SPOTV PH" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SPOTV.png" group-title="SPORTS",SPOTV PH
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+
+#EXTINF:-1 tvg-name="SPOTV 2 PH" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SPOTV%202.png" group-title="SPORTS",SPOTV 2 PH
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 1 AU" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Bein%20Sports%201.png" group-title="SPORTS",BEIN SPORTS 1 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 2 AU" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Bein%20Sports%202.png" group-title="SPORTS",BEIN SPORTS 2 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+
+#EXTINF:-1 tvg-name="BEIN SPORTS 3 AU" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Bein%20Sports%203.png" group-title="SPORTS",BEIN SPORTS 3 AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+
+#EXTINF:-1 tvg-name="BEIN SPORTS Xtra US" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Bein%20Sports%20Xtra%20US.png" group-title="SPORTS",BEIN SPORTS Xtra US
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BEIN SPORTS XTRA ESPAÑOL US" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Bein%20Sports%20Xtra%20Espa%C3%B1ol%20US.png" group-title="SPORTS",BEIN SPORTS XTRA ESPAÑOL US
+#EXTVLCOPT:http-user-agent=TiviMate/4.7.0
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TNT%20Sports%201.png" group-title="SPORTS",TNT SPORTS 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1174236.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TNT%20Sports%202.png" group-title="SPORTS",TNT SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
+
+#EXTINF:-1 tvg-name="TNT SPORTS 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TNT%20Sports%203.png" group-title="SPORTS",TNT SPORTS 3
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47852
+
+#EXTINF:-1 tvg-name="TNT SPORTS 4" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TNT%20Sports%204.png" group-title="SPORTS",TNT SPORTS 4
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+http://kstv.us:8080/jimmyrhale/JE1974aa$$/47853
+
+#EXTINF:-1 tvg-name="SPORTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SPORTV.png" group-title="SPORTS",SPORTV
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-name="SPORTV 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SPORTV%202.png" group-title="SPORTS",SPORTV 2
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dsa3hwuhd1/out/v1/631b48c8d9ea437e8309d1a4b55acef5/cenc.mpd
+
+#EXTINF:-1 tvg-name="SPORTV 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SPORTV%203.png" group-title="SPORTS",SPORTV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/out/v1/add7499679b0422cb6791f7701f95ecc/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FOX%20Sports%201.png" group-title="SPORTS",FOX SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FOX%20Sports%202.png" group-title="SPORTS",FOX SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FOX%20Sports%203.png" group-title="SPORTS",FOX SPORTS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX SPORTS PREMIUM" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FOX%20Sports%20Premium.png" group-title="SPORTS",FOX SPORTS PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
+
+#EXTINF:-1 tvg-name="FOX DEPORTES" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FOX%20Deportes.png" group-title="SPORTS",FOX DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+
+#EXTINF:-1 tvg-name="DSPORTS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DSPORTS.png" group-title="SPORTS",DSPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+
+#EXTINF:-1 tvg-name="DSPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DSPORTS%202.png" group-title="SPORTS",DSPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+
+#EXTINF:-1 tvg-name="DSPORTS+" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DSPORTS%20%2B.png" group-title="SPORTS",DSPORTS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/gru-nitro/live/dash/enc/ud6bnhthpj/out/v1/2639a2f4480f4269953de466d5f46463/cenc.mpd
+
+#EXTINF:-1 tvg-name="FANCODE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fancode.png" group-title="SPORTS",FANCODE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
+
+#EXTINF:-1 tvg-name="FANCODE 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fancode.png" group-title="SPORTS",FANCODE 2
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd
+
+#EXTINF:-1 tvg-name="DAZN 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%201.png" group-title="SPORTS",DAZN 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959376.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%202.png" group-title="SPORTS",DAZN 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959380.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%203.png" group-title="SPORTS",DAZN 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959384.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 4" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%204.png" group-title="SPORTS",DAZN 4
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959386.m3u8
+
+#EXTINF:-1 tvg-name="DAZN 5" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%205.png" group-title="SPORTS",DAZN 5
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels10/959390.m3u8
+
+#EXTINF:-1 tvg-name="DAZN F1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%20F1.png" group-title="SPORTS",DAZN F1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/587368.m3u8
+
+#EXTINF:-1 tvg-name="DAZN FAST" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%20FAST.png" group-title="SPORTS",DAZN FAST
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="DAZN RISE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%20RISE.png" group-title="SPORTS",DAZN RISE
+https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-name="DAZN RINGSIDE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/DAZN%20Ringside.png" group-title="SPORTS",DAZN RINGSIDE
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sports%20Premier%20League.png" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312048.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS NEWS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sports%20News.png" group-title="SPORTS",SKY SPORTS NEWS
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312039.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sports%20Action.png" group-title="SPORTS",SKY SPORTS ACTION
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312045.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS RACING" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sports%20Racing.png" group-title="SPORTS",SKY SPORTS RACING
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312042.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sports%20F1.png" group-title="SPORTS",SKY SPORTS F1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312044.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT F1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20F1.png" group-title="SPORTS",SKY SPORT F1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/177693.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT MOTOGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20MotoGP.png" group-title="SPORTS",SKY SPORT MOTOGP
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167177.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT 24" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%2024.png" group-title="SPORTS",SKY SPORT 24
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167168.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT ARENA" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Arena.png" group-title="SPORTS",SKY SPORT ARENA
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167171.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT BASKET" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Basket.png" group-title="SPORTS",SKY SPORT BASKET
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167176.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT CALCIO" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Calcio.png" group-title="SPORTS",SKY SPORT CALCIO
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167169.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT GOLF" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Golf.png" group-title="SPORTS",SKY SPORT GOLF
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167170.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT MAX" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Max.png" group-title="SPORTS",SKY SPORT MAX
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/177697.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT MIX" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Mix.png" group-title="SPORTS",SKY SPORT MIX
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312046.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT TENNIS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Tennis.png" group-title="SPORTS",SKY SPORT TENNIS
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167175.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT UNO" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Uno.png" group-title="SPORTS",SKY SPORT UNO
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167167.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE DE" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Premier%20League%20DE.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE DE
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1149432.m3u8
+
+#EXTINF:-1 tvg-name="SKY SPORT PREMIER LEAGUE NZ" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sky%20Sport%20Premier%20League%20NZ.png" group-title="SPORTS",SKY SPORT PREMIER LEAGUE NZ
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/809372.m3u8
+
+#EXTINF:-1 tvg-name="EUROSPORT 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/EuroSport%201.png" group-title="SPORTS",EUROSPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/EuroSport%202.png" group-title="SPORTS",EUROSPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="NOVA SPORT 1" group-title="SPORTS",NOVA SPORT 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="NOVA SPORT 2" group-title="SPORTS",NOVA SPORT 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TSN%201.png" group-title="SPORTS",TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TSN%202.png" group-title="SPORTS",TSN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cjglydxghe/out/v1/8977baf175da4b94873194613dd3fe55/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TSN%203.png" group-title="SPORTS",TSN 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lsibpqruq1/out/v1/748887d614a84913ba8bcdf3c82823e6/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 4" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TSN%204.png" group-title="SPORTS",TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ihys8nw4wv/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd
+
+#EXTINF:-1 tvg-name="TSN 5" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TSN%205.png" group-title="SPORTS",TSN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1/972185041b244140860b7d56398e9aaf/cenc.mpd
+
+#EXTINF:-1 tvg-name="PRIMA SPORT 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Prima%20Sport%201.png" group-title="SPORTS",PRIMA SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
+
+#EXTINF:-1 tvg-name="PRIMA SPORT 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Prima%20Sport%202.png" group-title="SPORTS",PRIMA SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+
+#EXTINF:-1 tvg-name="PRIMA SPORT 3" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Prima%20Sport%203.png" group-title="SPORTS",PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+
+#EXTINF:-1 tvg-name="PRIMA SPORT 4" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Prima%20Sport%204.png" group-title="SPORTS",PRIMA SPORT 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+
+#EXTINF:-1 tvg-name="PRIMA SPORT 5" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Prima%20Sport%205.png" group-title="SPORTS",PRIMA SPORT 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORT 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Premier%20Sport%201.png" group-title="SPORTS",PREMIER SPORT 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
+
+#EXTINF:-1 tvg-name="PREMIER SPORT 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Premier%20Sport%202.png" group-title="SPORTS",PREMIER SPORT 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
+
+#EXTINF:-1 tvg-name="FUBO SPORTS 1" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fubo%20Sports.png" group-title="SPORTS",FUBO SPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd
+
+#EXTINF:-1 tvg-name="FUBO SPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fubo%20Sports.png" group-title="SPORTS",FUBO SPORTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
+
+#EXTINF:-1 tvg-name="HBO BOXING" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/HBO%20Boxing.png" group-title="SPORTS",HBO BOXING
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
+#EXTINF:-1 tvg-name="FIGHT SPORTS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fight%20Sports.png" group-title="SPORTS",FIGHT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
+#EXTINF:-1 tvg-name="FIGHT TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Fight%20TV.png" group-title="SPORTS",FIGHT TV
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+
+#EXTINF:-1 tvg-name="PERSIANA FIGHT" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Persiana%20Fight.png" group-title="SPORTS",PERSIANA FIGHT
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/https://fighthls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="WEDOTV SPORTS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/WeDoTv%20Sports.png" group-title="SPORTS",WEDOTV SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://gvisiontv.channell.my.id/kitkat/untukstbkitkatmenolakpunah/http://op-flashcon-digdayahd-1.dens.tv/h/h71/wedo_sport.m3u8?app_type=web&userid=lite&chname=wedoSports
+
+#EXTINF:-1 tvg-name="CCTV 5" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/CCTV%205.png" group-title="SPORTS",CCTV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://107.150.60.122/live/cctv5hd.m3u8
+
+#EXTINF:-1 tvg-name="ON SPORTS+" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/On%20Sport%2B.png" group-title="SPORTS",ON SPORTS+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
+https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd
+
+#EXTINF:-1 tvg-name="SPORT DIGITAL FUSSBALL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Sport%20Digital%20Fussball.png" group-title="SPORTS",SPORT DIGITAL FUSSBALL
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+
+#EXTINF:-1 tvg-name="TENNIS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TENNIS%202.png" group-title="SPORTS",TENNIS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
+
+#EXTINF:-1 tvg-name="MOTOGP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MotoGP.png" group-title="SPORTS+",MOTOGP
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 tvg-name="F1 TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/F1%20TV.png" group-title="SPORTS+",F1 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 tvg-name="F1 TV (NOT LIVE)" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/F1%20TV.png" group-title="SPORTS+",F1 TV (NOT LIVE)
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd
+
+#EXTINF:-1 tvg-name="UFC" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/UFC.png" group-title="SPORTS+",UFC
+https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
+
+#EXTINF:-1 tvg-name="RED BULL TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/RED%20BULL%20TV.png" group-title="SPORTS+",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/NBA%20TV.png" group-title="SPORTS+",NBA TV
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
+#EXTINF:-1 tvg-name="FIFA+" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/FIFA%2B.png" group-title="SPORTS+",FIFA+
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/pjpsn1xdop/out/v1/c9699d08ed434e53bd49b709f8b3136d/cenc.mpd
+
+#EXTINF:-1 tvg-name="REAL MADRID TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Real%20Madrid%20TV.png" group-title="SPORTS+",REAL MADRID TV
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 tvg-name="BARÇA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Barca%20TV.png" group-title="SPORTS+",BARÇA TV
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 tvg-name="INTER TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Inter%20TV.png" group-title="SPORTS+",INTER TV
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
+#EXTINF:-1 tvg-name="MUTV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MUTV.png" group-title="SPORTS+",MUTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1312815.m3u8
+
+#EXTINF:-1 tvg-name="BENFICA TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Benfica%20TV.png" group-title="SPORTS+",BENFICA TV
+#EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
+https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels2/983567.m3u8
+
+#EXTINF:-1 tvg-name="KIDS TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/KIDS%20TV.png" group-title="KIDS",KIDS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+
+#EXTINF:-1 tvg-name="MENTARI TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/MENTARI%20TV.png" group-title="KIDS",MENTARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
+
+#EXTINF:-1 tvg-name="NICK JR" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Nick%20Jr.png" group-title="KIDS",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#EXTINF:-1 tvg-name="NICKELODEON" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Nickelodeon.png" group-title="KIDS",NICKELODEON
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#EXTINF:-1 tvg-name="ANIMAX" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Animax.png" group-title="KIDS",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Dreamworks.png" group-title="KIDS",DREAMWORKS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
+
+#EXTINF:-1 tvg-name="B KIDS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/B%20KIDS.png" group-title="KIDS",B KIDS
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/manifest.mpd
+
+#EXTINF:-1 tvg-name="BABY SHARK TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Baby%20Shark%20TV.png" group-title="KIDS",BABY SHARK TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="PINKFONG TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Pingfong%20TV.png" group-title="KIDS",PINKFONG TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.18 LibVLC/3.0.18
+http://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HITS" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/HITS.png" group-title="MOVIE & ENT",HITS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+
+#EXTINF:-1 tvg-name="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/HITS%20MOVIES.png" group-title="MOVIE & ENT",HITS MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/index.mpd
+
+#EXTINF:-1 tvg-name="GALAXY" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/GALAXY.png" group-title="MOVIE & ENT",GALAXY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://live-channel3-cdn.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
+
+#EXTINF:-1 tvg-name="GALAXY PREMIUM" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/GALAXY%20PREMIUM.png" group-title="MOVIE & ENT",GALAXY PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTINF:-1 tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Studio%20Universal.png" group-title="MOVIE & ENT",STUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
+
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/AXN.png" group-title="MOVIE & ENT",AXN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
+
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/KIX.png" group-title="MOVIE & ENT",KIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
+
+#EXTINF:-1 tvg-name="THRILL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Thrill.png" group-title="MOVIE & ENT",THRILL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
+
+#EXTINF:-1 tvg-name="CELESTIAL MOVIES" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Celestial%20Movies.png" group-title="MOVIE & ENT",CELESTIAL MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
+
+#EXTINF:-1 tvg-name="CELESTIAL CLASSIC MOVIES" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Celestial%20Classic%20Movies.png" group-title="MOVIE & ENT",CELESTIAL CLASSIC MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-name="SUPERRIX" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/SUPERRIX.png" group-title="MOVIE & ENT",SUPERRIX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
+#EXTINF:-1 tvg-name="Z BIOSKOP" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Zee%20Bioskop.png" group-title="MOVIE & ENT",Z BIOSKOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
+#EXTINF:-1 tvg-name="WARNER TV" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Warner%20TV.png" group-title="MOVIE & ENT",WARNER TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Rock%20Action.png" group-title="MOVIE & ENT",ROCK ACTION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
+#EXTINF:-1 tvg-name="ROCK ENTERTAINMENT" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Rock%20Entertainment.png" group-title="MOVIE & ENT",ROCK ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd
+
+#EXTINF:-1 tvg-name="INDONESIA MOVIE CHANNEL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Indonesia%20Movie%20Channel.png" group-title="MOVIE & ENT",INDONESIA MOVIE CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTINF:-1 tvg-name="VISION PRIME" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/Vision%20Prime.png" group-title="MOVIE & ENT",VISION PRIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TVN.png" group-title="MOVIE & ENT",TVN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTINF:-1 tvg-name="TVN MOVIES" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/TVN%20MOVIES.png" group-title="MOVIE & ENT",TVN MOVIES
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
+http://202.150.161.212:5000/live/channel30/playlist.m3u8
+
+#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/KBS%20WORLD.png" group-title="MOVIE & ENT",KBS WORLD
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/KBSWorldHD/mpdnew/KBSWorldHD.mpd
+
+#EXTINF:-1 tvg-name="WWE SUPERSTAR CENTRAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/WWE%20Superstar%20Central.png" group-title="MOVIE & ENT",WWE SUPERSTAR CENTRAL
+https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
+
