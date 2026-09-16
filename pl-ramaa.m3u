@@ -28,9 +28,7 @@ https://ramaku-tv.defiraa.workers.dev/trans7.m3u8
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
 https://ramaku-tv.defiraa.workers.dev/transtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR DIGITAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDOSIAR.png" group-title="INDONESIA",INDOSIAR DIGITAL
-#EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
-https://dickgital.semar26.xyz/fetch?id=idigital.m3u8&auth=idgtlsemar25
+
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDOSIAR.png" group-title="INDONESIA",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
 https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
