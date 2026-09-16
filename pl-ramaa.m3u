@@ -35,10 +35,7 @@ https://calistaiptv.my.id/indopart/play.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV " tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/sctv-id.png" group-title="INDONESIA",SCTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstream.adaptive.license_key=https://ratuvidio.adptv.workers.dev/index.mpd?id=204&type=drm
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://tvratu.my.id/vid/index.mpd?id=204&type=dash
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="MOJI TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/moji-id.png" group-title="INDONESIA",MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -793,10 +790,7 @@ https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787767232~hmac=3e31e939
 
 #EXTINF:-1 tvg-id="" tvg-name="SCTV | BONE TV" tvg-logo="https://thumbor.prod.vidiocdn.com/VdOjvt6WDL1ZrZ-PG2MKLn3N8pk=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5273130/6e3b88.jpg" group-title="LOKAL",SCTV | BONE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_key=https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=drm&x=1787746623&k=d0ebfae058f7fc4429b899ffa4590717393bd29198183fa9c1797bd8236880ee
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-https://streamvididi.tsender57.workers.dev/index.mpd?q=204&ext=dash&x=1787746623&k=43085ae3cf2663c8961beba27c47222e53e96bb71c5878cf266260ebc5c1213c&sc=204
+https://calistaiptv.my.id/indopart/play.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="tvOne | BONE TV" tvg-logo="https://thumbor.prod.vidiocdn.com/oxJn_nsXnzIcI2lFivvZbbm9PHQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/783/tvone-bb42ce.jpg" group-title="LOKAL",tvOne | BONE TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
