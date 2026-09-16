@@ -22,11 +22,11 @@ http://beetv.my.id/xstreamx/rctiplus.m3u8?ch=inews
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-7-id.png" group-title="INDONESIA",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
-http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34325
+https://ramaku-tv.defiraa.workers.dev/trans7.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV DIGITAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",TRANS TV DIGITAL
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",TRANS TV DIGITAL
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
-http://31.43.191.125:8080/VIP019201762490519102/18754640ce7b/34324
+https://ramaku-tv.defiraa.workers.dev/transtv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR DIGITAL" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/icon-DiktaTV/INDOSIAR.png" group-title="INDONESIA",INDOSIAR DIGITAL
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0 (Linux;Android 11)
@@ -1542,17 +1542,14 @@ https://e.siar.us/live/dtvi.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg" group-title="LOKAL",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://khano.nng.cloudns.us/live/m3u8/id/d12f0b99ed1f070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg" group-title="INDONESIA",CNN Indonesia
+https://ramaku-tv.defiraa.workers.dev/cnn.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/40bc5eb7cdeb4f37814608ffbe60b671.jpg" group-title="LOKAL",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-http://khano.nng.cloudns.us/live/m3u8/id/ef7e8c7bc86110e.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DETIK" tvg-logo="https://detiknetwork.com/logo/logo/thumb-1585190130detikcom_logo_png.png" group-title="INDONESIA",20 Detik
+https://ramaku-tv.defiraa.workers.dev/20detik.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/40bc5eb7cdeb4f37814608ffbe60b671.jpg" group-title="INDONESIA",CNBC Indonesia
+https://ramaku-tv.defiraa.workers.dev/cnbc.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVRI WORLD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/TVRI_World_Old_Logo.png" group-title="LOKAL",TVRI WORLD
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1924,6 +1921,3 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 #EXTVLCOPT:http-referrer=https://oxygentv.id
 http://cdn.nng.cloudns.us/live/m3u8/Kids/7e5676155536bd5.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Emsg Id3" group-title="Hiburan Umum",Emsg Id3
-#EXTVLCOPT:http-user-agent=android-R+
-https://developer.apple.com/streaming/emsg-id3
