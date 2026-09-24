@@ -1,7 +1,7 @@
 #EXTM3U
 by rama 
 #EXTINF:-1 tvg-id="" tvg-name="DONASI ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-colored-outline-icon-style-hand-giving-money-icon-related-to-donation-and-charity-donation-elements-illustration-vector.jpg" group-title="INDONESIA",DONASI ++
-#EXTVLCOPT:http-referrer=https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
+https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/mnc-tv-id.png" group-title="INDONESIA",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
