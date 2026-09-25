@@ -6,25 +6,26 @@ by ramaa
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 
 
+
 #EXTINF:-1 tvg-id="RCTI" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png",RCTI
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790344433~hmac=f8a450e3bb42d28c534d8034197d7b8f667ae0495de1451fb28984c29a2ee5af
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1790371401~hmac=a550eb2cba43f37337340a4405514bd65781cbd9d846615caa2c09ec52a01de7
 
 #EXTINF:-1 tvg-id="MNCTV" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png",MNCTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790344433~hmac=7092a531a0a1bdd1963587f6922545668dd152a29335026e2232c7e7b778e2fb
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1790371401~hmac=6ebc4a90321206e7d5790d1ef09798a35baa923d8ff87ca737b32a9eba5fdcf8
 
 #EXTINF:-1 tvg-id="GTV" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png",GTV
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790344433~hmac=80323c1277e274e08bbca0a3d48f14b353f07ba3d93ae8c7fea1f439495e3e4d
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1790371401~hmac=640ad7f9fefe8911fe00726d8dc8164be71b752ff7c447056d062f32b7bcf0e0
 
 #EXTINF:-1 tvg-id="iNews" group-title="INDONESIA" tvg-logo="https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/iNews.png",iNews
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790344434~hmac=731afb352aa38ba6ae6abc0dbbe8f5ed749df95e20d6af7eb696229b7eed141a
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1790371402~hmac=3c030729a0e1b3de16a90abd0cf909dd963d70a6194f4c073a15fbf98c82ff45
 
 
 
@@ -2169,47 +2170,8 @@ http://3bb.engatetv.com:25461/hstn/line/21
 
 playlist even rama
 
-#EXTINF:-1 tvg-id="" tvg-name="01.00||QATAR VS BAHRAIN" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",01.00||QATAR VS BAHRAIN
-https://live2.domainkqt.cc/live/channel9.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="01.45||NETHERLANDS VS GERMANY" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",01.45||NETHERLANDS VS GERMANY
-https://live05.meung.app/live/78905744.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="01.45||NORWAY VS DENMARK" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",01.45||NORWAY VS DENMARK
-https://live05.meung.app/live/33982309.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||PORTUGAL VS WALES" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",01.45||PORTUGAL VS WALES
-https://live05.meung.app/live/08552895.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||SERBIA VS GREECE" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",01.45||SERBIA VS GREECE
-https://live2.domainkqt.cc/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||CAMEROON VS COMOROS" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",02.00||CAMEROON VS COMOROS
-https://live2.zundrixmediapipeline.com/live/channel8.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||IVORY COAST VS GHANA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",02.00||IVORY COAST VS GHANA
-https://live2.domainkqt.cc/live/channel28.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="12.00||UZBEKISTAN U-23 VS SAUDI ARABIA U-23" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",12.00||UZBEKISTAN U-23 VS SAUDI ARABIA U-23
-https://live2.domainkqt.cc/live/channel13.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="15.00||BANGLADESH VS MALAYSIA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",15.00||BANGLADESH VS MALAYSIA
-https://live2.domainkqt.cc/live/channel11.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="17.00||AUSTRALIA VS BRAZIL" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",17.00||AUSTRALIA VS BRAZIL
-https://live2.domainkqt.cc/live/channel28.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="17.30||SOUTH KOREA U-23 VS VIETNAM U-23" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",17.30||SOUTH KOREA U-23 VS VIETNAM U-23
-https://live2.domainkqt.cc/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="19.00||PERSIBA BALIKPAPAN VS THE RED FC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9Onzh9T1aZ9JJAILZwJIQ7uueHPHKR_o4NzoBqKHWxgOntS6S12qf6g&s=10" group-title="LIVE 25-09-26",19.00||PERSIBA BALIKPAPAN VS THE RED FC
-https://tfzl0gr3uomttgr31hct1gczdgp3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel10/playlist.m3u8?wsSecret=dfa09519515bf5b732cf0b34f2bc9af3&wsABSTime=1790338755&wsSession=72f1ecafa8570fdd8c78ecfe-179029555988446&wsIPSercert=27bb9480268a7f0142e73953fb3a6613&wsBindIP=2&wsserid=19560480166232750
-
-#EXTINF:-1 tvg-id="" tvg-name="20.00||INDONESIA VS SINGAPORE" tvg-logo="https://www.footyheadlines.com/static/img/post/2026/09/09/lB9foXZYRoEsw2m/all-new-fifa-asean-cup-logo-revealed.jpg?s=800" group-title="LIVE 25-09-26",20.00||INDONESIA VS SINGAPORE
-https://live2.domainkqt.cc/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="20.00||MOAZMBIQUE VS SENEGAL" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",20.00||MOAZMBIQUE VS SENEGAL
-https://live2.domainkqt.cc/live/channel22.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="23.00||GEORGIA VS NOTHEM IRELAND" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",23.00||GEORGIA VS NOTHEM IRELAND
 https://live2.domainkqt.cc/live/channel5.m3u8
