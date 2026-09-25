@@ -2178,43 +2178,4 @@ http://3bb.engatetv.com:25461/hstn/line/14
 #EXTINF:-1 tvg-id="" tvg-name="PPTV36" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/fwsVrxqVa/3PPTV36/PPTV_By_HSTN.jpg" group-title="SPORTS",PPTV36
 http://3bb.engatetv.com:25461/hstn/line/21
 
-playlist even rama
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="23.00||GEORGIA VS NOTHEM IRELAND" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",23.00||GEORGIA VS NOTHEM IRELAND
-https://live2.domainkqt.cc/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="23.00||NIGERIA VS MADAGASCAR" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 25-09-26",23.00||NIGERIA VS MADAGASCAR
-https://live2.domainkqt.cc/live/channel4.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||TURKEY VS FRANCE" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||TURKEY VS FRANCE
-https://live2.domainkqt.cc/live/channel5.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||MONTENEGRO VS CYPRUS" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||MONTENEGRO VS CYPRUS
-https://live2.domainkqt.cc/live/channel19.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||ITALY VS BELGIUM" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||ITALY VS BELGIUM
-https://live2.domainkqt.cc/live/channel1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||SWEDEN VS ROMANIA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||SWEDEN VS ROMANIA
-https://live2.domainkqt.cc/live/channel15.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||HUNGARIA VS UKRAINA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||HUNGARIA VS UKRAINA
-https://live2.domainkqt.cc/live/channel2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="01.45||POLANDIA VS BOSNIA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",01.45||POLANDIA VS BOSNIA
-https://live2.domainkqt.cc/live/channel6.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||EGYPT VS ANGOLA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",02.00||EGYPT VS ANGOLA
-https://live2.domainkqt.cc/live/channel21.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||MALY VS CABO VERDE" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",02.00||MALY VS CABO VERDE
-https://tfzl0gr3uomttgr31hct1gczdgp3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel6/playlist.m3u8?wsSecret=24f64dd52c80ef2bdf28ed2b1e396c15&wsABSTime=1790366655&wsSession=9a8a8322f10cb7b10f9eca26-179032346009926&wsIPSercert=1b201586a21bc778ff822e40fb5596f9&wsBindIP=2&wsserid=1168024215084672958
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||MARROCO VS GABON" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",02.00||MARROCO VS GABON
-https://live2.domainkqt.cc/live/channel23.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="02.00||ALGERIA VS ZAMBIA" tvg-logo="https://png.pngtree.com/png-vector/20230907/ourmid/pngtree-live-football-red-play-button-free-transparent-vector-png-image_10020151.png" group-title="LIVE 26-09-26",02.00||ALGERIA VS ZAMBIA
-https://tfzl0gr3uomttgr31hct1gczdgp3pptwzc3jt.100ycdn.com/live1.quickscoreboardz.com/live/channel3/playlist.m3u8?wsSecret=4201c98580360f340f80ed0480b53d48&wsABSTime=1790366777&wsSession=ce520b49833e089d436a424f-179032358137563&wsIPSercert=1b201586a21bc778ff822e40fb5596f9&wsBindIP=2&wsserid=19560480166232784
+====playlist even rama===
