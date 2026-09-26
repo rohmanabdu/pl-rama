@@ -143,6 +143,28 @@ https://ramaku-tv.defiraa.workers.dev/cnn.m3u8
 #EXTVLCOPT:http-user-agent=android-R+
 https://ramaku-tv.defiraa.workers.dev/cnbc.m3u8
 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/50/1/sin-po-tv-logo-png_seeklogo-505996.png" group-title="INDONESIA",SINPO TV
+#https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/sinpotv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+
+
+#EXTINF:-1 group-title="KIDS"tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2016/02/KIX_HD_logo_LightBg1.jpg",KIX
+https://cdnbal1.indihometv.com/atm/DASH/kix/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES"tvg-logo="https://static.wikia.nocookie.net/logo-timeline/images/b/b2/AXN_%282015%29.jpg/revision/latest/scale-to-width-down/985?cb=20230508093836",AXN
+https://cdnbal1.indihometv.com/atm/DASH/axn/manifest.mpd?ch=ParamountNetworkHD
+
+#EXTINF:-1 tvg-id="55" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar_400x400.png" group-title="MOVIES", THRILL
+https://cdnbal1.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/d8/K-Plus_%282013%29.svg/revision/latest?cb=20240723011130",KPLUS
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
+
+
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV ID" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png" group-title="SPORTS",SPOTV ID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/webclient/live
