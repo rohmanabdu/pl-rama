@@ -47,14 +47,14 @@ https://rctiplus.mikrofast.my.id/rctiplus/inews/index.m3u8?direct=1
 
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 
-https://transmedia.mikrofast.my.id/transtv/transtv/index.m3u8?direct=1
+https://transmedia.mikrofast.my.id/transtv/trans7/index.m3u8?direct=1
 
 #EXTINF:-1 tvg-id="" tvg-name="TRANS TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/indonesia/trans-tv-id.png" group-title="INDONESIA",TRANS TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 
-https://transmedia.mikrofast.my.id/transtv/trans7/index.m3u8?direct=1
+https://transmedia.mikrofast.my.id/transtv/transtv/index.m3u8?direct=1
 
 #EXTINF:-1 tvg-id="" tvg-name="INDOSIAR HD" tvg-logo="https://thumbor.prod.vidiocdn.com/e-tiJFPZKI4QjhxAHzp_5foCkGE=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-d9a3d0.jpg" group-title="INDONESIA",INDOSIAR HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; MiTV-AXSO1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Mobile Safari/537.36
