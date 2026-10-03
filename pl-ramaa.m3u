@@ -2186,8 +2186,7 @@ http://3bb.engatetv.com:25461/hstn/line/14
 #EXTINF:-1 tvg-id="" tvg-name="PPTV36" tvg-logo="https://image.makewebcdn.com/makeweb/m_1920x0/fwsVrxqVa/3PPTV36/PPTV_By_HSTN.jpg" group-title="SPORTS",PPTV36
 http://3bb.engatetv.com:25461/hstn/line/21
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="",CARTOONITO
-https://ogietv.biz.id:443/BuatxX2/AppxMaling/1909.m3u8
+
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="",SPOTV 2
 https://ogietv.biz.id:443/BuatxX2/AppxMaling/25873.m3u8
