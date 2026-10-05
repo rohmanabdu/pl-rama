@@ -818,61 +818,21 @@ http://168.196.127.137:6001/play/a05t/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36
 http://45.224.96.220:18000/play/a07y/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH01" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh01.jpg" group-title="ASIAN GAMES",Asian Games CH01
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+====timnas====
 
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH02" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCh02.jpg" group-title="ASIAN GAMES",Asian Games CH02
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH03" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH03.jpg" group-title="ASIAN GAMES",Asian Games CH03
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH04" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH04.jpg" group-title="ASIAN GAMES",Asian Games CH04
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=ea1f7f86732d47e897e38c3168851569:55b7ed4cc25fa476f6682c447af128d5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp04.akamaized.net/out/v1/4604623e7ff4462a962275664ccd8ee5/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH05" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH05.jpg" group-title="ASIAN GAMES",Asian Games CH05
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=c2dc792d1b97441a92a4be4e9a655e18:2ba047bfd23d36bb823990fb69a98cca
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp03.akamaized.net/out/v1/c2dd987e84784d478cb0e9eb797fda5d/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH06" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH06.jpg" group-title="ASIAN GAMES",Asian Games CH06
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=4ba597f828db477e9f18d9ab7a4d6ca8:26eb8934f968f5dfc15b91797344411a
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp01.akamaized.net/out/v1/c5980cddad3f4321b9032f2442f2552b/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Asian Games CH07" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/AsianGamesCH07.jpg" group-title="ASIAN GAMES",Asian Games CH07
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.license_key=fd5881a779d148e18fb48d120bfb0056:5f7e80016181020e087586c4f7942929
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-https://tglmp02.akamaized.net/out/v1/ce69826a52c84c64ade5487a1e38f82d/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="ASIAN GAMES",MEDIACORP 1
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",MEDIACORP 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 ##https://mwseag5.hbx4.workers.dev/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="ASIAN GAMES",MEDIACORP 2
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",MEDIACORP 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
 https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="ASIAN GAMES",T SPORTS
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",T SPORTS
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
@@ -882,7 +842,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="ASIAN GAMES",CHANNEL 5
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",CHANNEL 5
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
@@ -2183,7 +2143,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
-#EXTINF:-1 tvg-name="History-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="KNOWLEDGE &LIFESTYLE",HISTORY US
+#EXTINF:-1 tvg-name="History-US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HistoryHD_Logo_2015_4C_Black_type.png" group-title="KNOWLEDGE & LIFESTYLE",HISTORY US
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
 #EXTINF:-1 group-title="KNOWLEDGE & LIFESTYLE" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.png",DISCOVERY ASIA
