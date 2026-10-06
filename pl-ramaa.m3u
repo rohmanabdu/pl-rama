@@ -873,13 +873,14 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/ind
 
 
 
-#EXTINF:-1 tvg-id="Music TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png" group-title="MUSIC",Music TV
+#EXTINF:-1 tvg-id="Music TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/Music_TV_%282020%29.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="MUSIC",Music TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=142
 #KODIPROP:inputstream.adaptive.license_key=https://vision.hoe.my.id/play?ids=142&type=drm&token=alf-store
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
 
 #EXTINF:-1 group-title="MUSIC" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbCPljyCt4ixQ3vtf2MJGb_VtJpbfCN4IQQkyWLOG0ng&s=10",MIC TV
 https://mic.siar.us/mic/live/playlist.m3u8 
