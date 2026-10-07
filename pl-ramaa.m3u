@@ -233,9 +233,12 @@ https://ramaku-tv.defiraa.workers.dev/cnbc.m3u8
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 http://gvisiontv.channell.my.id/ch/id/oxy1.php/.m3u8?id=sinpotv
 
+
+
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="INDONESIA",SIN PO TV 2
+#EXTINF:-1 tvg-id="SinPoTV.id@HD" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg" group-title="INDONESIA",SIN PO TV 2
 https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
  
 
@@ -277,7 +280,12 @@ http://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2mUZmc5cRhbsv-7j7J9_wDsD8zgOdLkhrZcHPbFUpFw&s=10",Pingfong TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-id="Disney.Channel.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/2024_Disney_Channel_text_logo.svg" group-title="Children & Family",Disney Channel
+http://212.5.144.156/disney/index.m3u8
+#EXTINF:-1 tvg-id="Disney.Junior.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" group-title="Children & Family",Disney Junior
+http://88.212.15.19/live/test_disney_junior/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney.XD.branden" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" group-title="Children & Family",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 
 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_nick.png",Nickelodeon 
