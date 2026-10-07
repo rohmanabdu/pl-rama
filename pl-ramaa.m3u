@@ -820,19 +820,8 @@ http://45.224.96.220:18000/play/a07y/index.m3u8
 
 ====timnas====
 
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",MEDIACORP 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
-https://ls-mp04stg.eo-edgefunctions7.com/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-##https://mwseag5.hbx4.workers.dev/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",MEDIACORP 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
-https://ls-mp02stg.eo-edgefunctions7.com/out/v1/cc0fc82e76cb4e0093e81695284af443/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",T SPORTS
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="SPORTS",T SPORTS
 https://raw.githubusercontent.com/stablesports711-hue/stable-sports-movie/refs/heads/main/IPTV/SS-TSports.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 
@@ -842,7 +831,7 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc3767ece98a4bdeb39b9ad6b7b8d2fe:769e78dc02d8f73811c97e0f9d5f12fe
-#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="NOW EVENT",CHANNEL 5
+#EXTINF:-1 tvg-logo="https://awsimages.detik.net.id/community/media/visual/2026/09/09/logo-fifa-asean-cup-2026-1788933592035_169.jpeg" tvg-id="itzplay.id" group-title="SPORTS",CHANNEL 5
 https://tglmp02.akamaized.net/out/v1/a32e566460eb41ce9295b9c45fe25825/manifest.mpd
 https://tglmp02.akamaized.net/out/v1/8c503a6966554d439035588f10505eee/manifest.mpd
 
