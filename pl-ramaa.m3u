@@ -433,7 +433,7 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
 ====EVENT====
-#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",MEDIACORP TV 1
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",MEDIACORP TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
@@ -476,7 +476,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/in
 http://filex.me:8080/live/3114654477/5787654467/302264.ts
 https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts.ts
 
-#EXTINF:-1 group-title="CHANNEL EVENT" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/50/3/tvri-sport-hd-logo-png_seeklogo-506447.png", TVRI SPORT
+#EXTINF:-1 group-title="CHANNEL EVENT" tvg-logo="https://i.ytimg.com/vi/pQIYYZ3E5j8/mqdefault.jpg", TVRI SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -492,7 +492,7 @@ https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b
 
 
 ====SPORT====
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 1 
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
