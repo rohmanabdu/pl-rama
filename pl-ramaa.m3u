@@ -431,7 +431,98 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/ABC_Kids_Play.png/revision/latest?cb=20181007103810" group-title="KIDS",ABC Kids Play Music
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
+====EVENT====
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",MEDIACORP TV 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
+https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",RCTI R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",MNCTV R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",GTV R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",INEWS R+
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",SPORTSTARS 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ke1ontong.inisemar.my.id/vplusplus.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTINF:-1 tvg-id="SHOPEE CUP" group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSMmqHHxtx7xKd5W3lBRrw7tz2IXhyBHQlZmq-QlhnEg&s=10",SPORTSTARS 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTINF:-1 group-title="CHANNEL EVENT" tvg-logo="https://i.imgur.com/vzXPJsq.png",INDOSIAR BRI L1 KADANG KEBUKA
+http://filex.me:8080/live/3114654477/5787654467/302264.ts
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts.ts
+
+#EXTINF:-1 group-title="CHANNEL EVENT" tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/50/3/tvri-sport-hd-logo-png_seeklogo-506447.png", TVRI SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://klik.tvri.go.id/
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1 tvg-id="BADMINTON" group-title="CHANNEL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/fjn-lUStwU1IlhAsU73Qc-nx26w=/168x168/filters:quality(70)/vidio-web-prod-topic/uploads/topic/image/38757/37785f.png", BADMINTON COURT 1
+https://live1.quickscoreboardz.com/live/channel62/playlist.m3u8?wsSecret=4198a9a464d9c284623338e7b92d4d8e&wsABSTime=1791314390
+
+#EXTINF:-1 tvg-id="BADMINTON" group-title="CHANNEL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/fjn-lUStwU1IlhAsU73Qc-nx26w=/168x168/filters:quality(70)/vidio-web-prod-topic/uploads/topic/image/38757/37785f.png", BADMINTON COURT 2
+https://live1.quickscoreboardz.com/live/channel63/playlist.m3u8?wsSecret=cba231638b5e2660cd1bf7ee54c15e3a&wsABSTime=1791314473
+
+#EXTINF:-1 tvg-id="BADMINTON" group-title="CHANNEL EVENT" tvg-logo="https://thumbor.prod.vidiocdn.com/fjn-lUStwU1IlhAsU73Qc-nx26w=/168x168/filters:quality(70)/vidio-web-prod-topic/uploads/topic/image/38757/37785f.png", BADMINTON COURT 3
+https://live1.quickscoreboardz.com/live/channel61/playlist.m3u8?wsSecret=7d80b1b50edc4c22b66af36b3b739c8d&wsABSTime=1791314618
+
+
 ====SPORT====
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=112
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+ 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png",Sportstars 2 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=113
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+ 
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 3 
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=114
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 4
+#EXTVLCOPT:http-referer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=205
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV PH" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Spotv.png" group-title="SPORTS",SPOTV PH
 #EXTVLCOPT:http-user-agent=TiviMate/4.7.0
