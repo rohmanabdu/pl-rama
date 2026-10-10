@@ -221,14 +221,14 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=7464&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg" group-title="INDONESIA",CNN Indonesia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+https://delivery.tvprem.net/stream/id_cnn/playlist.m3u8?token=xfbe&v=20200807
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/40bc5eb7cdeb4f37814608ffbe60b671.jpg" group-title="INDONESIA",CNBC Indonesia
-#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
-#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+https://delivery.tvprem.net/stream/id_cnbc/playlist.m3u8?token=xfbe&v=20200807
+
+
+
+
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",SIN PO TV 1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -527,6 +527,8 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
 ====SPORT LUAR====
+#EXTINF:-1 tvg-id="NBATV.id" tvg-name="NBATV.id" group-title="SPORTS 2" tvg-logo="https://cdn.macan.tv/img/nbatv.png", NBA TV
+https://delivery.tvprem.net/stream/nbatv/playlist.m3u8?token=xfbe&v=20200807
 
 #EXTINF:-1 group-title="SPORTS 2" tvg-uid="28463ea187c2a097ccd11272a3fc7f92" data-source="Gremani" tvg-logo="https://promo.matchtv.ru/img/brandbook/logo-match-bw.svg", MATCH TV 1 
 http://stream.mcquack.net/130/index.m3u8
@@ -1791,6 +1793,8 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 
 
 =====FILM=====
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
+https://delivery.tvprem.net/stream/warnertv/playlist.m3u8?token=xfbe&v=20200807
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:DE
@@ -1803,6 +1807,7 @@ http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:D
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
+
 
 #EXTINF:-1 tvg-id="ROCKEntertainment.sg@SD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png" group-title="MOVIES",Rock Entertainment
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1831,6 +1836,8 @@ http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 #EXTINF:-1 tvg-id="HBO" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7bgp-3NYBwNCd0IS8N7Whxt0EokHXdo43IOecT4xohw&s=10",HBO 4
 http://141.94.193.53/HBO_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="HBOHD.MACAN" tvg-name="HBOHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo.png", HBO 5
+https://delivery.tvprem.net/stream/hbo/playlist.m3u8?token=xfbe&v=20200807
 
 
 #EXTINF:-1 tvg-id="HBO Hits" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcWZ64XyNvnOXtjn6dMAimZJ703-0r3MmbijbaiDvYyQ&s=10",HBO Hits
@@ -1839,10 +1846,8 @@ http://141.94.193.53/HBO_HD/index.m3u8
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Family" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/560dfea6-13fc-45c5-abb5-0692213c6010/dfmt2k5-d81cd351-a69d-4024-b5fa-464829651a79.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81NjBkZmVhNi0xM2ZjLTQ1YzUtYWJiNS0wNjkyMjEzYzYwMTAvZGZtdDJrNS1kODFjZDM1MS1hNjlkLTQwMjQtYjVmYS00NjQ4Mjk2NTFhNzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XYHy2lS55R4FkMwtjn8CM3q9YK-nxY_sruRLZH2aLW8",HBO Family
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbofam.mpd
+#EXTINF:-1 tvg-id="HBOFamilyHD.MACAN" tvg-name="HBOFamilyHD.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/hbo_family.png", HBO Family
+https://delivery.tvprem.net/stream/hbo_family/playlist.m3u8?token=xfbe&v=20200807
 
 
 #EXTINF:-1 tvg-id="HBO Signature" group-title="MOVIES" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-logo="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",HBO Signature
@@ -2094,20 +2099,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 #EXTVLCOPT:http-user-agent=android-R+
 https://dpv6ceilvhyrw.cloudfront.net/playlist.m3u8
 
+====mALAYSIA====
 
-#EXTINF:-1 tvg-id="" tvg-name="Ria" tvg-logo="https://ptv2026.com/logo/vip_Ria.png" group-title="Malaysia",Ria
-#EXTVLCOPT:http-user-agent=android-R+
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ria
-
-#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="https://ptv2026.com/logo/vip_Prima.png" group-title="Malaysia",Prima
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=prima
-
-#EXTINF:-1 tvg-id="" tvg-name="Ceria" tvg-logo="https://ptv2026.com/logo/vip_Ceria.png" group-title="Malaysia",Ceria
-#EXTVLCOPT:http-user-agent=android-R+
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://load.ptv2026.com/rwt.m3u8?username=vip_3klp0es8&password=wg3piwEs&channel=ceria
 
 #EXTINF:-1 tvg-id="" tvg-name="TV1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png" group-title="Malaysia",TV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
