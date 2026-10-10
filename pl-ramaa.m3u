@@ -221,13 +221,14 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 http://tvratu.my.id/nissa/index.mpd?id=7464&type=dash
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685651d7bcc01651f0e4ce10098/b4f628f786104e68a12721f365af0238.jpg" group-title="INDONESIA",CNN Indonesia
-#EXTVLCOPT:http-user-agent=android-R+
-https://ramaku-tv.defiraa.workers.dev/cnn.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c68565fa79ce01665868040a343f/40bc5eb7cdeb4f37814608ffbe60b671.jpg" group-title="INDONESIA",CNBC Indonesia
-#EXTVLCOPT:http-user-agent=android-R+
-https://ramaku-tv.defiraa.workers.dev/cnbc.m3u8
-
+#EXTVLCOPT:http-origin=https://www.cnbcindonesia.com
+#EXTVLCOPT:http-referrer=https://www.cnbcindonesia.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="INDONESIA" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Sinpo-1800x1800_2025_11_06_13_04_13.jpg",SIN PO TV 1
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
@@ -619,7 +620,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ee
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_2_Serbia.png", EUROSPORT 2
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_2_Serbia.png", EUROSPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -647,7 +648,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf1HD/mediampd/Champio
 https://atemecdnbalancer-voe.sysln.id/live/eds/ChampionsGolf2HD/mediampd/ChampionsGolf2HD.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbB7F-Df4XCy8ozjtgk44dqzVqvjvGzmt1Pw&usqp=CAU" group-title="SPORTS 2", STAR SPORT 1
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s" group-title="SPORTS 2", STAR SPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamJm50OlrEwJEawjQV9x1P923UBnpI7hLPQ&s" group-title="SPORTS 2", STAR SPORTS 2
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgZJOjMlOWLU9Lm6TGD64HqG8opGW7MB-qlrjoHi_H_3RHlY83rReaSbeP&s=10" group-title="SPORTS 2", STAR SPORT 3
 https://raw.githubusercontent.com/B-inal-123/s-asia/inal-22/Starsport3.m3u8
@@ -790,7 +791,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima Sport 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS 2" ,Prima Sport 2 
+#EXTINF:-1 tvg-id="PrimaSport2.ro" tvg-name="Prima SPORTS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Prima_Sport_2_new.svg/revision/latest/scale-to-width-down/150?cb=20230125050049" group-title="SPORTS 2" ,Prima SPORTS 2 
 #EXTVLCOPT:http-referrer=https://iron1.xn--x2rw19a.space/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.xn--x2rw19a.space/puk2/usergenrnd0clv03fyt.m3u8
@@ -891,7 +892,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_nova_sport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="SPORTS 2", NOVA SPORT 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Nova_Sport_2_2024.png" group-title="SPORTS 2", NOVA SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -909,7 +910,7 @@ https://dash2.antik.sk/stream/nvidia_nova_sport2/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_sport_1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVs9bk5KPd125dbp0JMpaqTBmZSlkVjl-2-0DVNnvNCWevrQcdFOOSlcfAUALlhMPwxfo&usqp=CAU" group-title="SPORTS 2",SLOVAKIA: SPORT 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVs9bk5KPd125dbp0JMpaqTBmZSlkVjl-2-0DVNnvNCWevrQcdFOOSlcfAUALlhMPwxfo&usqp=CAU" group-title="SPORTS 2",SLOVAKIA: SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1095,36 +1096,36 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/9a6uh9e0rz/
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
 ====OTHER SPORTS====
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",  SPORT 1 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",  SPORT 1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb308ff4c4ec835baa2956212507de52:aa45e839f15058df50342ace8d040a48
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/mitr07scim/out/v1/4fb1073240a549479fd2f343e6cad4ba/cenc.mpd
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",  SPORT 2 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",  SPORTS 2 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd
-#EXTINF:-1 group-title="SPORT 2" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.pn", SPORT 3 FHD
+#EXTINF:-1 group-title="SPORTS 2" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.pn", SPORT 3 FHD
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",  SPORT 4 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",  SPORT 4 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 5 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 5 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 6 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 6 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1132,43 +1133,43 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8m8cd46i1t/out/v1
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 7 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 7 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a5aa835a061ce64a630d1046727e40:d02feac8a999bd06bf4059bf33411749
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rhf2dwosdt/out/v1/ee550d2a68d846c797e6ce4de2e8b76d/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 8 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 8 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 9 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 9 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc91508324ce9dcaf425a43d58f1d9d4:643e5474d9edd87c7d9091c8c97994ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/dev1hjwzh9/out/v1/a5f0ee7ad7b24906b14f43bebbbe4678/cenc.mpd
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2",SPORT 10 FHD
+#EXTINF:-1 tvg-id="TUDN.mx" tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2",SPORT 10 FHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa34fa8c90336dd528c7a23871cad1fe:552a78d1aeb74f1650d68255c5749408
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tdijwiga2k/out/v1/f5fde318678f4f7583bf27b7231bde1f/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2", SPORT 11 FHD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2", SPORT 11 FHD
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SsportAlb1.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2", SPORT 12 FHD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2", SPORT 12 FHD
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SsportAlb2.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2", SPORT 13 FHD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2", SPORT 13 FHD
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SsportAlb3.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2", SPORT 14 FHD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2", SPORT 14 FHD
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SsportAlb4.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORT 2", SPORT 15 FHD
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/20-203017_tvplay-sports-logo-hd-png-download.png" group-title="SPORTS 2", SPORT 15 FHD
 https://raw.githubusercontent.com/B-inal-123/s-eropa/inal-22/SsportAlb5.m3u8
 
 
@@ -1252,7 +1253,7 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="EuroSport 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Eurosport%202.png" group-title="SPORTS",EuroSport 2
+#EXTINF:-1 tvg-id="" tvg-name="EuroSPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/Eurosport%202.png" group-title="SPORTS",EuroSPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1372,7 +1373,7 @@ https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/116
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
 https://raw.githubusercontent.com/tsender57-dotcom/iptv-rox-playlist/main/MyIPTV/channels/177693.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 24" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/SkySport24.png" group-title="SPORTS",Sky Sport 24
+#EXTINF:-1 tvg-id="" tvg-name="Sky SPORTS 24" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/SkySport24.png" group-title="SPORTS",Sky SPORTS 24
 #EXTVLCOPT:http-user-agent=OTT Navigator 1.9.6.4 (Android)
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/Channels/1167168.m3u8
 
@@ -1503,7 +1504,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 #EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
 https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Prima Sport 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/PrimaSport2.png" group-title="SPORTS",Prima Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Prima SPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/PrimaSport2.png" group-title="SPORTS",Prima SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
@@ -1533,7 +1534,7 @@ https://livebytsctbu.vtvprime.vn/mean/HAY_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47858.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Premier Sport 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/PremierSports2.png" group-title="SPORTS",Premier Sport 2
+#EXTINF:-1 tvg-id="" tvg-name="Premier SPORTS 2" tvg-logo="https://raw.githubusercontent.com/aderandi/iptv-playlist/refs/heads/main/Logo/PremierSports2.png" group-title="SPORTS",Premier SPORTS 2
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.6.9.0 (Linux;Android 11) ExoPlayerLib/2.15.1
 http://kstv.us:8080/live/jimmyrhale/JE1974aa$$/47859.m3u8
 
