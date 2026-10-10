@@ -264,13 +264,15 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 group-title="KIDS"tvg-logo="https://www.mncvision.id/userfiles/image/ARTIKEL%20MNC%20VISION/MY%20KIDS.png",MY KIDZ
 https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
  
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Logo_Kids_TV.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",KIDS TV 
+
+
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY5o22wAWuN3CCS5pC74Sd5OwngJI1elXfpmqte9hQEQ&s",KIDS TV 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=56
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-origin=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd 
 
 #EXTINF:-1 tvg-id="auto.vtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRuqLEZCUdbJbfXCapdz7iVWvNRwnEph-0zUmBpDhg25o3Y0WaBUgUUJB&s=10" group-title="KIDS", VTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
@@ -1793,7 +1795,7 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 
 
 =====FILM=====
-#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
+#EXTINF:-1 tvg-id="WarnerTV.MACAN" tvg-name="WarnerTV.MACAN" group-title="MOVIES" tvg-logo="https://cdn.macan.tv/img/warnertv.png", Warner TV
 https://delivery.tvprem.net/stream/warnertv/playlist.m3u8?token=xfbe&v=20200807
 
 #EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" tvg-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260708_224622.jpg" group-title="MOVIES" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png", SONY PIX
