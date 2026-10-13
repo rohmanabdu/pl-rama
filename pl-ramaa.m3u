@@ -535,6 +535,10 @@ https://aspaltvpasti.top/Drmvidbos/Akun121/bosstv.m3u8?id=19046
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
 
+#EXTINF:-1 group-title="CHANNEL EVENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZvSzE_xRRy5RPoZZT-RgNc5iwMh9QGYeVhJh1-s9PEqgGehqvgAhbjbRm&s=10",GTV HD
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://allcutv.rctiplus.id/gtv2023.m3u8
 
 
 #EXTINF:-1 group-title="CHANNEL EVENT" tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png",Sportstars 
