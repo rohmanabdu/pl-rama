@@ -1,89 +1,70 @@
-import requests
-import re
+import requests, re, os
 
-# LINK SUMBER
 URL_RCTI = "https://raw.githubusercontent.com/apistech/project/refs/heads/main/playlists/rctiplus.m3u"
-URL_PUNYAMU = "https://raw.githubusercontent.com/rohmanabdu/pl-rama/main/pl-ramaaa3.m3u"
-OUTPUT = "pl-ramaaz.m3u" # hasil akhir di root
+URL_MILIKMU = "https://raw.githubusercontent.com/rohmanabdu/pl-rama/main/pl-ramaaa3.m3u"
+OUTPUT_ROOT = "pl-ramaaz.m3u"
+OUTPUT_FOLDER = "pl-ramaaz.m3u" 
 
-# SETTING KATEGORI & LOGO - EDIT DISINI
-# Nama key harus mirip dengan nama channel di playlist asal
 CONFIG = {
     "RCTI":   {"group": "INDONESIA", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/RCTI.png"},
     "MNCTV":  {"group": "INDONESIA", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/MNCTV.png"},
     "GTV":    {"group": "INDONESIA", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/GTV.png"},
     "INEWS":  {"group": "INDONESIA", "logo": "https://static.rctiplus.id/media/300/files/fta_rcti/Channel_Logo/INEWS.png"},
-
 }
 
-def get_m3u(url):
+def get(url):
     r = requests.get(url, timeout=30)
     r.raise_for_status()
     return r.text
 
 def parse(content):
-    channels = []
-    extinf = ""
+    chs = []
+    ext = ""
     for line in content.splitlines():
         line=line.strip()
         if line.startswith("#EXTINF"):
-            extinf = line
+            ext=line
         elif line.startswith("http"):
-            if extinf:
-                channels.append((extinf, line))
-                extinf = ""
-    return channels
+            if ext:
+                chs.append((ext, line))
+                ext=""
+    return chs
 
-def rebuild_extinf(old_extinf, url):
-    # ambil nama channel setelah koma
-    try:
-        ch_name = old_extinf.split(",")[-1]
-    except:
-        ch_name = "Channel"
-    
-    # cari config
-    cfg = None
-    for k, v in CONFIG.items():
-        if k.lower() in old_extinf.lower() or k.lower() in ch_name.lower():
-            cfg = v
+print("Fetching RCTI+...")
+a = parse(get(URL_RCTI))
+print("Fetching pl-ramaaa3.m3u...")
+b = parse(get(URL_MILIKMU))
+all_ch = a + b
+
+seen=set()
+out="#EXTM3U\n"
+for extinf, url in all_ch:
+    if url in seen: continue
+    seen.add(url)
+    low=extinf.lower()
+    group="Lainnya"
+    logo=""
+    for k,v in CONFIG.items():
+        if k in low:
+            group=v["group"]
+            logo=v["logo"]
             break
-    
-    group = cfg["group"] if cfg else "Lainnya"
-    logo = cfg["logo"] if cfg else ""
+    extinf=re.sub(r'group-title=".*?"','',extinf)
+    extinf=re.sub(r'tvg-logo=".*?"','',extinf)
+    extinf=re.sub(r'\s+',' ',extinf).strip()
+    before, after = extinf.rsplit(",",1)
+    extinf = f'{before} group-title="{group}" tvg-logo="{logo}",{after}'
+    out+=f"{extinf}\n{url}\n"
 
-    # bersihkan atribut lama
-    base = re.sub(r'group-title=".*?"', '', old_extinf)
-    base = re.sub(r'tvg-logo=".*?"', '', base)
-    base = re.sub(r'\s+', ' ', base).strip()
+# simpan 2 lokasi biar pasti ada
+with open(OUTPUT_ROOT, "w", encoding="utf-8") as f:
+    f.write(out)
 
-    # inject baru
-    before, after = base.rsplit(",", 1)
-    new_line = f'{before} group-title="{group}" tvg-logo="{logo}",{after}'
-    return new_line
+# buat folder playlists juga kalau ada
+os.makedirs("playlists", exist_ok=True)
+with open(os.path.join("playlists", OUTPUT_ROOT), "w", encoding="utf-8") as f:
+    f.write(out)
 
-def main():
-    print("Fetching RCTI+...")
-    c1 = parse(get_m3u(URL_RCTI))
-    print("Fetching pl-ramaaa3.m3u...")
-    c2 = parse(get_m3u(URL_PUNYAMU))
+print(f"Sukses! Jadi file {OUTPUT_ROOT} total {len(seen)} channel")
+print(f"Lokasi: {os.path.abspath(OUTPUT_ROOT)}")
 
-    all_ch = c1 + c2
-    
-    # hapus duplikat url
-    seen = set()
-    final = []
-    for ext, url in all_ch:
-        if url not in seen:
-            final.append((ext, url))
-            seen.add(url)
-
-    with open(OUTPUT, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for ext, url in final:
-            f.write(rebuild_extinf(ext, url) + "\n")
-            f.write(url + "\n")
-    
-    print(f"Sukses! Jadi file {OUTPUT} total {len(final)} channel")
-
-if __name__ == "__main__":
-    main()
