@@ -24,7 +24,7 @@ jobs:
       - name: Run merge
         run: python merge.py
 
-      - name: Push file pl-ramaa.m3u
+      - name: Push file pl-ramaaz.m3u
         run: |
           ls -lh
           echo "--- cek file ---"
