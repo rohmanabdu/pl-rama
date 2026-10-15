@@ -8,16 +8,30 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: pip install requests
-      - run: python merge.py
-      - run: |
-          git config user.name "auto-bot"
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Run merge
+        run: python merge.py
+
+      - name: Push file pl-ramaa.m3u
+        run: |
+          ls -lh
+          echo "--- cek file ---"
+          ls -lh pl-ramaaz.m3u || echo "file tidak ada!"
+          git config user.name "bot"
           git config user.email "bot@github.com"
           git add pl-ramaa.m3u
-          git commit -m "update playlist" || exit 0
+          git add playlists/pl-ramaaz.m3u || true
+          git commit -m "update pl-ramaa.m3u total 670 ch" || echo "tidak ada perubahan"
           git push
