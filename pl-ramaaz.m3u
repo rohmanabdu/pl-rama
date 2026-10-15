@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RCTI"  group-title="Lainnya" tvg-logo="",RCTI
+
+by ramaa
+backup coy
+
+#EXTINF:-1 tvg-id="" tvg-name="Donasi ++" tvg-logo="https://static.vecteezy.com/system/resources/previews/054/224/335/non_2x/charity-icon-collection-vector.jpg" group-title="Donasi",Donasi ++
+https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
+
+==disini==
+
+#EXTINF:-1 tvg-id="RCTI"  group-title="RCTI+" tvg-logo="",RCTI
 https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792072900-d4bfc140ad5180c52a39a0ab0bd31479-0-8911dbef1bc52609269fecdefe104bc2
-#EXTINF:-1 tvg-id="MNCTV"  group-title="Lainnya" tvg-logo="",MNCTV
+#EXTINF:-1 tvg-id="MNCTV"  group-title="RCTI+" tvg-logo="",MNCTV
 https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792072900-26d5b09fcbb5a3f128ce0336ed339f25-0-ea8c8b4bde0626907220994122bb413b
-#EXTINF:-1 tvg-id="GTV"  group-title="Lainnya" tvg-logo="",GTV
+#EXTINF:-1 tvg-id="GTV"  group-title="RCTI+" tvg-logo="",GTV
 https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792072901-56e9550cbd92ffff3ff1db5a78e6d946-0-fad55ce27819939309c00eef2d7339c9
-#EXTINF:-1 tvg-id="iNews"  group-title="Lainnya" tvg-logo="",iNews
+#EXTINF:-1 tvg-id="iNews"  group-title="RCTI+" tvg-logo="",iNews
 https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792072901-5f4249ea20a8ee279594ae1ac0040bc5-0-954effcc2bffcefc2c4daed6914bd3d2
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++"  group-title="Lainnya" tvg-logo="",Donasi ++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
@@ -47,7 +56,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/01.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NUSANTARA TV"  group-title="Lainnya" tvg-logo="",NUSANTARA TV
 https://op-flashcon-digdayahd-1.dens.tv/h/h37/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDONESIANA TV"  group-title="Lainnya" tvg-logo="",INDONESIANA TV
+#EXTINF:-1 tvg-id="" tvg-name="INDONESIANA TV"  group-title="RCTI+" tvg-logo="",INDONESIANA TV
 https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="BTV"  group-title="Lainnya" tvg-logo="",BTV
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
@@ -143,15 +152,15 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 #EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",MEDIACORP TV
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
-#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",RCTI R+
+#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="RCTI+" tvg-logo="",RCTI R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",MNCTV R+
+#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="RCTI+" tvg-logo="",MNCTV R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",SOCCER CHANNEL
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
-#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",GTV R+
+#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="RCTI+" tvg-logo="",GTV R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="Lainnya" tvg-logo="",INEWS R+
+#EXTINF:-1 tvg-id="SHOPEE CUP"  group-title="RCTI+" tvg-logo="",INEWS R+
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1  group-title="Lainnya" tvg-logo="", TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -167,7 +176,7 @@ http://filex.me:8080/live/3114654477/5787654467/302264.ts
 http://ktpremium.world:2095/oc100138/3826778900/73617
 #EXTINF:-1  group-title="Lainnya" tvg-logo="", MOTOGP
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1  group-title="Lainnya" tvg-logo="",GTV HD
+#EXTINF:-1  group-title="RCTI+" tvg-logo="",GTV HD
 https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1  group-title="Lainnya" tvg-logo="",Sportstars
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
@@ -601,7 +610,7 @@ https://d3kmrn2mstrnk5.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://newidco-newkid-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="StingrayTodaysKPop.ca"  group-title="Lainnya" tvg-logo="",Stingray Today's K-POP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
-#EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="Lainnya" tvg-logo="", SONY PIX
+#EXTINF:-1 tvg-id="sonypixhd.in" tvg-id="sonypixhd.idn" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="RCTI+" tvg-logo="", SONY PIX
 http://tv.cloudcdn.me/live.ts?channelId=189&uid=12643&deviceMac=00:1A:79:03:13:DE
 #EXTINF:-1  group-title="Lainnya" tvg-logo="",ROCK Action
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
@@ -625,13 +634,13 @@ https://delivery.tvprem.net/stream/hbo_family/playlist.m3u8?token=xfbe&v=2020080
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="IMC.id@SD" tvg-name=""  group-title="Lainnya" tvg-logo="",Indonesia Movie Channel
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="Lainnya" tvg-logo="", STAR MOVIES
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="RCTI+" tvg-logo="", STAR MOVIES
 http://tv.cloudcdn.me/live.ts?channelId=198&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="Lainnya" tvg-logo="", STAR MOVIES SELECT
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="RCTI+" tvg-logo="", STAR MOVIES SELECT
 http://tv.cloudcdn.me/live.ts?channelId=199&uid=12643&deviceMac=00:1A:79:03:13:DE
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="Lainnya" tvg-logo="", CHC ACTION MOVIES
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="RCTI+" tvg-logo="", CHC ACTION MOVIES
 http://69.30.245.50/live/chcdz.m3u8
-#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="Lainnya" tvg-logo="", CHC HOME THEATER
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20260507_160816.png" group-title="RCTI+" tvg-logo="", CHC HOME THEATER
 http://69.30.245.50/live/chcjt.m3u8
 #EXTINF:-1  group-title="Lainnya" tvg-logo="",Thrill
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/index.mpd
