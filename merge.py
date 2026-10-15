@@ -4,7 +4,7 @@ import re
 # LINK SUMBER
 URL_RCTI = "https://raw.githubusercontent.com/apistech/project/refs/heads/main/playlists/rctiplus.m3u"
 URL_PUNYAMU = "https://raw.githubusercontent.com/rohmanabdu/pl-rama/main/pl-ramaaa3.m3u"
-OUTPUT = "pl-ramaa.m3u" # hasil akhir di root
+OUTPUT = "pl-ramaaz.m3u" # hasil akhir di root
 
 # SETTING KATEGORI & LOGO - EDIT DISINI
 # Nama key harus mirip dengan nama channel di playlist asal
