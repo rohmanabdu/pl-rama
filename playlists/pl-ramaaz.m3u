@@ -9,13 +9,13 @@ https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 ==disini==
 
 #EXTINF:-1 tvg-id="RCTI"  group-title="RCTI+" tvg-logo="",RCTI
-https://proxy-b.rctiplus.id/live/web/rcti/rcti-sdi.m3u8?auth_key=1792132431-2e0bcc6042eb7dd1199012ba0ea93c08-0-d7326156257339063f3ffa6bf4b5219e
+https://nontonlagi.rctiplus.id/abvia/missind/manifest720.m3u8
 #EXTINF:-1 tvg-id="MNCTV"  group-title="RCTI+" tvg-logo="",MNCTV
-https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792132431-9b211bc89a44e3da92c1b45032af088d-0-cd4f6bbada8bc879cea27f67a7d7bc42
+https://proxy-b.rctiplus.id/live/web/mnctv/mnctv-sdi.m3u8?auth_key=1792218265-e43e35d220eee8a5c30427124a2b03f2-0-7db4c55bdb419a117894a85c279e2020
 #EXTINF:-1 tvg-id="GTV"  group-title="RCTI+" tvg-logo="",GTV
-https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792132432-511507a1d0a41c870e4fd5a255e06cb8-0-853447b936dd4d7cfc735c170ffcaa21
+https://proxy-b.rctiplus.id/live/web/gtv/gtv-sdi.m3u8?auth_key=1792218265-c357b419fd5dd57ecae3bbe9697f3265-0-419e0d2788e3bf25f3f1adc50075a555
 #EXTINF:-1 tvg-id="iNews"  group-title="RCTI+" tvg-logo="",iNews
-https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792132432-c4454c21839498583f340506904da694-0-77270e1c62063266ab6242ae597ba213
+https://proxy-b.rctiplus.id/live/web/inews/inews-sdi.m3u8?auth_key=1792218265-2300c7b8b572b2d2df01ed492c44ecee-0-ef6b6a006abd5082abcf18c00df23eca
 #EXTINF:-1 tvg-id="" tvg-name="Donasi ++"  group-title="Lainnya" tvg-logo="",Donasi ++
 https://github.com/rohmanabdu/cloudd/raw/refs/heads/main/awal.mp4
 #EXTINF:-1 tvg-id="" tvg-name="TRANS 7 HD"  group-title="Lainnya" tvg-logo="",TRANS 7 HD
